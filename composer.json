@@ -1,5 +1,5 @@
 {
-    "name": "croudtech/recurring-task-scheduler",
+    "name": "fimaruf/recurring-task-scheduler",
     "description": "Laravel Recurring Task Scheduler",
     "type": "library",
     "license": "proprietary",
@@ -29,8 +29,8 @@
     },
     "require": {
         "composer/installers": "~1.0",
-        "croudtech/laravel-repositories": "^1.5",
-        "laravel/laravel": "^5.0",
-        "nesbot/carbon": "^1.21"
+        "fimaruf/laravel-repositories": "dev-master",
+        "laravel/laravel": ">=7.0",
+        "nesbot/carbon": "^2.56"
     }
 }
